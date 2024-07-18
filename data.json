@@ -1,0 +1,22 @@
+[
+    {
+        "city": "Lima",
+        "temperature": 20,
+        "condition": "Soleado"
+    },
+    {
+        "city": "Santiago",
+        "temperature": 15,
+        "condition": "Nublado"
+    },
+    {
+        "city": "Buenos Aires",
+        "temperature": 10,
+        "condition": "Lluvia"
+    },
+    {
+        "city": "Mexico City",
+        "temperature": 25,
+        "condition": "Soleado"
+    }
+]
