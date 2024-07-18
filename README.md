@@ -11,15 +11,9 @@ Este proyecto es un simulador de clima que obtiene datos de un archivo JSON loca
 - Respuesta a la interacción del usuario mediante eventos.
 - Visualización de datos con gráficos utilizando Chart.js.
 
-## Instalación
-
-1. Clonar el repositorio.
-2. Abrir el archivo `index.html` en un navegador web.
 
 ## Uso
 
 Selecciona una ciudad del menú desplegable y haz clic en "Obtener Clima" para ver los datos de clima actuales y un gráfico de temperatura.
 
-## Requisitos
 
-- Navegador web moderno.
